@@ -5,7 +5,7 @@ applications:
    disk_quota: 64M
    env:
      GOVERSION: go1.12
-     GOPACKAGENAME: github.com/xuiv/v2ray-heroku
+     GOPACKAGENAME: github.com/wwf5067/open-heroku
 properties:
   logger_endpoint:
     port: 8443
