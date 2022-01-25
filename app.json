@@ -1,12 +1,12 @@
 {
-  "name": "Start on Heroku: v2ray",
-  "description": "Go Getting Started Example v2ray App",
+  "name": "Start on Heroku: open",
+  "description": "Go Getting Started Example open App",
   "keywords": [
     "getting-started",
-    "v2ray",
+    "open",
     "sample",
     "example"
   ],
-  "website": "http://github.com/xuiv/v2ray-heroku",
-  "repository": "http://github.com/xuiv/v2ray-heroku"
+  "website": "http://github.com/wwf5067/open-heroku",
+  "repository": "http://github.com/wwf5067/open-heroku"
 }
